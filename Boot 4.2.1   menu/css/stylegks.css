@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.cont{  background-color:black; opacity:.7; }
+.mnu{ background-color:#633; height:45px}
+.bnr{ background-image:url(../img/bnr.jpg); height:250px}
+h3{ text-align:center}
+.info{background-color:pink;}
+.info p{ color:white; font-weight:bold}
